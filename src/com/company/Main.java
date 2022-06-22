@@ -25,10 +25,10 @@ public class Main {
                     System.out.println("В центре координат");
                 }
                 else if (x == 0){
-                    System.out.println("На оси координат х");
+                    System.out.println("На оси координат у");
                 }
                 else if (y == 0){
-                    System.out.println("На оси координат у");
+                    System.out.println("На оси координат х");
                 }
     }
 }
